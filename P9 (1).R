@@ -9,3 +9,5 @@ hist(mtcars$cyl)
 boxplot(mtcats$cyl)
 
 barplot(mtcars$cyl)
+
+barplot(mtcars$mpg)
