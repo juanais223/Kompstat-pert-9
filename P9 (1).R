@@ -3,5 +3,5 @@ mean(mtcars$mpg)
 sd(mtcars$mpg)
 
 hist(mtcars)
-
+boxplot(mtcars)
 
