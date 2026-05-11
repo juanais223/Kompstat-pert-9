@@ -5,3 +5,4 @@ sd(mtcars$mpg)
 hist(mtcars)
 boxplot(mtcars)
 
+hist(mtcars$cyl)
