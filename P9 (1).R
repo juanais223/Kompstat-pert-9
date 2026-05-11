@@ -4,3 +4,4 @@ sd(mtcars$mpg)
 max(mtcars$mpg)
 
 hist(mtcars$mpg)
+boxplot(mtcars$cyl)
