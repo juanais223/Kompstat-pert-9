@@ -6,3 +6,4 @@ hist(mtcars)
 boxplot(mtcars)
 
 hist(mtcars$cyl)
+boxplot(mtcats$cyl)
